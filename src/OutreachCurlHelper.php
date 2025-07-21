@@ -2,7 +2,7 @@
 
 /**
  * Author: Muhammad Tariq Ibrar
- * Email: tibrar@brainsell.com, engrtariqibrar@gmail.com
+ * Email: engrtariqibrar@gmail.com
  * Linkedin: https://www.linkedin.com/in/engrtariqibrar
  */
 
